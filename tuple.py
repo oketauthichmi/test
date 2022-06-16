@@ -19,4 +19,3 @@ for i in c:
         print(j, end=" ")
     print()
 print("hello word!!!!!!!!11")
-hdjghdk
